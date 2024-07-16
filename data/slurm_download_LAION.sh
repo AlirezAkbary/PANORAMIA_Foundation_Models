@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --ntasks=40
 #SBATCH --cpus-per-task=1
-#SBATCH --time=6-00:00:00
+#SBATCH --time=7-00:00:00
 #SBATCH --account=def-t55wang
 
 img2dataset --url_list laion400m-meta --input_format "parquet"\
