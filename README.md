@@ -1,2 +1,2 @@
 # PANORAMIA_Foundation_Models
-PANORAMIA Experiments on Foundation Models
+PANORAMIA Initial Experiments on Foundation Models
