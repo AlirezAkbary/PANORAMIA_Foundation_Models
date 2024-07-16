@@ -1,0 +1,28 @@
+# Python virtual environment
+panoramia_venv
+
+# wandb local directory
+wandb
+
+# analysis files
+src/analysis
+src/o_of_one
+
+# random generated files
+__pycache__
+.vscode
+.ipynb_checkpoints
+
+# temporary dir
+tmp_utils
+
+# slurm output files
+slurm*
+core.*
+
+*.pth
+*.ipynb
+*.xml
+*.iml
+*.bin
+*.pyc
